@@ -7,10 +7,32 @@
     {
       "rid": "02"
      
-    },
+    }
+    
+  ],
+  "01": [
     {
-      "rid": "03"
+      "ownRly": "Others",
       
+      "wgnType": "BOST",
+     
+      "rakeInd": "10",
+      
+      "rmCd":"21",
+      "rmDesc":"abc"
+    }
+  ],
+   "02": [
+    {
+      "ownRly": "Others",
+      
+      "wgnType": "BOXN",
+     
+      "rakeInd": "21",
+      
+      "rmCd":"10",
+      "rmDesc":"xyz"
     }
   ]
+  
 }
