@@ -13,25 +13,27 @@
   "01": [
     {
       "ownRly": "Others",
-      
+      "wgnNo":"123",
       "wgnType": "BOST",
      
       "rakeInd": "10",
       
       "rmCd":"21",
-      "rmDesc":"abc"
+      "rmDesc":"abc",
+      "wgnSeq":"1"
     }
   ],
    "02": [
     {
       "ownRly": "Others",
-      
+       "wgnNo":"234",
       "wgnType": "BOXN",
      
       "rakeInd": "21",
       
       "rmCd":"10",
-      "rmDesc":"xyz"
+      "rmDesc":"xyz",
+       "wgnSeq":"1"
     }
   ],
   "-1":[
